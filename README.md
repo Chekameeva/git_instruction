@@ -20,5 +20,10 @@
 ### *git commit -m "message"*
 создание коммита
 ![git add](git_commit.jpg)
+## *git checkout*
+переход от одного коммита к другому
+## *git checkout master*
+вернуться к актуальному состоянию и продолжить работу
+
 
 
