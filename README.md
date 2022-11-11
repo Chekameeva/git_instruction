@@ -11,4 +11,7 @@
 * git diff
 ### *git init* 
 Инициализация локального суппозитория
-### *
+
+![git init](git_init.jpg)
+
+### *git status*
