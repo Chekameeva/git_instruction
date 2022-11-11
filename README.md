@@ -17,5 +17,8 @@
 ### *git add*
 добавить файл или файлы к следующему коммиту
 ![git add](git_add.jpg)
+### *git commit -m "message"*
+создание коммита
+![git add](git_commit.jpg)
 
 
