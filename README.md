@@ -51,3 +51,8 @@
 Создать новую ветку
 
 ![git branch_new_name](git_branch_new_name.jpg)
+
+## *git checkout <Название ветки>*
+Переход к другой ветке
+
+![git checkout_new_name](git_checkout_new_name.jpg)
