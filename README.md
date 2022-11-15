@@ -44,3 +44,8 @@
 Посмотреть список веток в репозитории
 
 ![git branch](git_branch.jpg)
+
+## *git branch <Название ветки>*
+Создать новую ветку
+
+![git branch_new_name](git_branch_new_name.jpg)
