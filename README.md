@@ -56,3 +56,4 @@
 Переход к другой ветке
 
 ![git checkout_new_name](git_checkout_new_name.jpg)
+Конец
