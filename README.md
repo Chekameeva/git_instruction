@@ -9,6 +9,11 @@
 * git checkout master
 * git log
 * git diff
+* git branch
+* git branch <Название ветки>
+* git checkout <Название ветки>
+* git branch -d <Название ветки>
+ 
 ### *git init* 
 Инициализация локального суппозитория
 
