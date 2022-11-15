@@ -59,3 +59,8 @@
 Удалить ветку
 
 ![git branch_d](git_branch_d.jpg)
+
+## *git merge*
+Слить любую ветку с текущей
+
+![git merge](git_merge.jpg)
