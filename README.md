@@ -56,4 +56,13 @@
 Переход к другой ветке
 
 ![git checkout_new_name](git_checkout_new_name.jpg)
-Конец
+
+## *git branch -d <Название ветки>*
+Удалить ветку
+
+![git branch_d](git_branch_d.jpg)
+
+## *git merge*
+Слить любую ветку с текущей
+
+![git merge](git_merge.jpg)
