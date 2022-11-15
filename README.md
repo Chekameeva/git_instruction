@@ -9,6 +9,9 @@
 * git checkout master
 * git log
 * git diff
+* git merge
+* git log --graph
+
 ### *git init* 
 Инициализация локального суппозитория
 
